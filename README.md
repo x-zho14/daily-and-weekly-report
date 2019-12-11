@@ -8,4 +8,14 @@
 | 周四  | 1.阅读A 78页<br>2.阅读introductory functional analysis with applications的第二，三章，第四章大概看了一下<br>4.阅读D 52页<br>5.阅读E 11-12页<br>6.阅读F 10-13页 |
 | 周五  | 1.阅读A 79页<br>2.阅读linear algebra done right, linear map, inner product spaces的一部分<br>3.写gta作业<br>4.阅读D 53页<br>5.阅读E 12-13页<br>6.阅读F 14-15页|
 | 周六  | 单元格 |
+| 周日  | 单元格 | 差3h07min
+
+| 空白  | 工作 |  备注  |
+| ---- | ----| ----|
+| 周一  | 1.复习kdd考试| 37min
+| 周二  | 
+| 周三  | 1.阅读A 80页 <br> 2.做去年的题目Q1-Q6| 4h05min
+| 周四  | 
+| 周五  | 
+| 周六  | 单元格 |
 | 周日  | 单元格 |
