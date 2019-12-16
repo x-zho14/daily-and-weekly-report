@@ -15,14 +15,14 @@
 | 周一  | 1.复习kdd考试| 37min
 | 周二  | 
 | 周三  | 1.阅读A 80页 <br> 2.做去年的题目Q1-Q6| 4h05min
-| 周四  | 
-| 周五  | 
+| 周四  | |8h07min
+| 周五  | |7h36min
 | 周六  | 单元格 |
 | 周日  | 单元格 |
 
 | 空白  | 工作 |  备注  |
 | ---- | ----| ----|
-| 周一  | 14:53-15:37 快速看了一下论文的后四页，看E的16-17页<br> 15:37-16:22 看E的17页，休息 <br> 16:22-17:22 看E的17-19页，看[Foundation of Machine Learning 笔记第四部分 —— Generalities 以及对不一致假设集的PAC学习证明](https://blog.csdn.net/u010185894/article/details/60755386)<br> 17:55-18:41 看E的19页，看[Inconsistent Model Hypotheses](https://www.cs.princeton.edu/courses/archive/spring14/cos511/scribe_notes/0225.pdf) <br> 21:03-21:37 看E的19-21页。 | 4h06分
+| 周一  | 14:53-15:37 快速看了一下论文的后四页，看E的16-17页<br> 15:37-16:22 看E的17页，休息 <br> 16:22-17:22 看E的17-19页，看[Foundation of Machine Learning 笔记第四部分 —— Generalities 以及对不一致假设集的PAC学习证明](https://blog.csdn.net/u010185894/article/details/60755386)<br> 17:55-18:41 看E的19页，看[Inconsistent Model Hypotheses](https://www.cs.princeton.edu/courses/archive/spring14/cos511/scribe_notes/0225.pdf) <br> 21:03-21:37 看E的19-21页。 | 4h06min
 | 周二  | 
 | 周三  | 
 | 周四  | 
