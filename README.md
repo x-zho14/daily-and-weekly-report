@@ -23,7 +23,7 @@
 | 空白  | 工作 |  备注  |
 | ---- | ----| ----|
 | 周一  | 14:53-15:37 快速看了一下论文的后四页，看E的16-17页<br> 15:37-16:22 看E的17页，休息 <br> 16:22-17:22 看E的17-19页，看[Foundation of Machine Learning 笔记第四部分 —— Generalities 以及对不一致假设集的PAC学习证明](https://blog.csdn.net/u010185894/article/details/60755386)<br> 17:55-18:41 看E的19页，看[Inconsistent Model Hypotheses](https://www.cs.princeton.edu/courses/archive/spring14/cos511/scribe_notes/0225.pdf) <br> 21:03-21:37 看E的19-21页。 | 4h06min
-| 周二  | 10:45-11:59 第二次看论文56-57页，看[Stochastic Optimization]1-2页(http://www.stat.columbia.edu/~liam/teaching/compstat-spr14/lauren-notes.pdf)。 <br> 12:52-13:51 看[Generalized Linear Models5](http://cs229.stanford.edu/notes2019fall/cs229-notes1.pdf),第二次看论文58-59页。 <br> 12:52-17:01 请教张经纬问题，还需要看foundations of machine learning书的3，4，5，附录。了解functional gradient，delta function，构造complete空间，RS积分。<br> 17:01-17:52 第二次看论文59-60页 <br> 18:48-19:55 第二次看论文60-61页。|7h21min
+| 周二  | 10:45-11:59 第二次看论文56-57页，看[Stochastic Optimization]1-2页(http://www.stat.columbia.edu/~liam/teaching/compstat-spr14/lauren-notes.pdf)。 <br> 12:52-13:51 看[Generalized Linear Models5](http://cs229.stanford.edu/notes2019fall/cs229-notes1.pdf),第二次看论文58-59页。 <br> 12:52-17:01 请教张经纬问题，还需要看foundations of machine learning书的3，4，5，附录。了解functional gradient，delta function，构造complete空间，RS积分。<br> 17:01-17:52 第二次看论文59-60页 <br> 18:48-19:55 第二次看论文60-61页。<br> 19:55-20:49 看论文61页，看E的25页。|7h21min
 | 周三  | 
 | 周四  | 
 | 周五  | 
